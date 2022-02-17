@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\encapsulation.exe
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\encapsulation.dll
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+C:\Users\90542\Desktop\Pratikler3\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.dll
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+C:\Users\90542\Desktop\Pratikler3\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
